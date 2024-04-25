@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{DOA_Kalman_RQRDRLS}
+Jian-Feng Gu, S.~C. Chan, Wei-Ping Zhu, and M.~N.~S. Swamy.
+\newblock Joint doa estimation and source signal tracking with kalman filtering and regularized qrd rls algorithm.
+\newblock {\em IEEE Transactions on Circuits and Systems II: Express Briefs}, 60(1):46--50, 2013.
+
+\bibitem{PAST}
+Bin Yang.
+\newblock Projection approximation subspace tracking.
+\newblock {\em IEEE Transactions on Signal Processing}, 43(1):95--107, 1995.
+
+\bibitem{RQRD_RLS_ALG}
+Z.~G. Zhang, S.~C. Chan, Y.~Zhou, and Y.~Hu.
+\newblock Robust linear estimation using m-estimation and weighted l1 regularization: Model selection and recursive implementation.
+\newblock In {\em 2009 IEEE International Symposium on Circuits and Systems (ISCAS)}, pages 1193--1196, 2009.
+
+\end{thebibliography}
