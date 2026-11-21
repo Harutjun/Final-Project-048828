@@ -1,3 +1,5 @@
+% WARNING: this script still uses the true signals / DOAs (see FIXES.md). Use the GenerateFig*.m scripts
+% (JointKF_Corrected) for results that use only estimated quantities.
 [audioIn1,fs1] = audioread('Counting-16-44p1-mono-15secs.wav');
 
 [audioIn2,fs2] = audioread('Rainbow-16-8-mono-114secs.wav');
