@@ -1,3 +1,5 @@
+% WARNING: this script still uses the true signals / DOAs (see FIXES.md). Use the GenerateFig*.m scripts
+% (JointKF_Corrected) for results that use only estimated quantities.
 
 SetParameters;
 DefineUtilityFunctions;
